@@ -2,7 +2,7 @@
 	accessModals.js
 	Accessible Modals v1.0
 	EcmaScript version: 6
-	Apache 2.0 License (http://www.apache.org/licenses/LICENSE-2.0)
+	MIT License
 ***/
 
 // all focusable elements
