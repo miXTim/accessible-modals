@@ -1,4 +1,4 @@
-# Accessible Modals v1.0
+# Accessible Modals v1.0.1
 Modal windows setup enhanced for accessibility using the `<role>` attribute.
 
 A modal window is a graphical component that is displayed when executing a control, link or button of a web page, with content inside it and that visually meets the following conditions:
