@@ -30,7 +30,7 @@
   outline: 2px solid var(--primary);
   outline-offset: 2px;
   text-decoration: none;
-  border-radius: 0.005em;
+  border-radius: 0.001em;
 }
 @media (prefers-reduced-motion: no-preference) {
   :focus-visible {
